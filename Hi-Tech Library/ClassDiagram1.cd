@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hi_Tech_Library.BLL.User" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAgAAAAEAAAAAAwgAQAAEAACAAEEAAECAAA=</HashCode>
+      <FileName>BLL\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.BLL.Status" Collapsed="true">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>BLL\Status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.BLL.OrderController" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACAAgAAAAAAgIAAAAABAAAAgAAgAAgEBEAAAgAAA=</HashCode>
+      <FileName>BLL\OrderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.BLL.PublisherController" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAAAAgAAAAAAAAAAIAAAAEIAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>BLL\PublisherController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.BLL.Job" Collapsed="true">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>BLL\Job.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.BLL.Customer" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAABAAIIAAAQAAAAAAAIBAAIAIAAAAAAAg=</HashCode>
+      <FileName>BLL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.BLL.Employee" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAEBIACIAAAAAAAAAQEQABAAAAAAIAAAAABACAAg=</HashCode>
+      <FileName>BLL\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.BLL.CategoryController" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEAAIAAAAAAQoAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\CategoryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.BLL.BookOrdersController" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhBIAAAAEAAAAAAAACAQAAAAAAEAgAAAAAAgAAAAAA=</HashCode>
+      <FileName>BLL\BookOrdersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.BLL.BookAuthorController" Collapsed="true">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAoAAAAEAAIAAEQAAAAAAAAAAAAIAAAAABEAAAg=</HashCode>
+      <FileName>BLL\BookAuthorController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.BLL.BookController" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BDAEBABAAIAAAFAAECAAgAACgEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\BookController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.BLL.AuthorController" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAQgAAIAAABEACEQAAAAAAAAAA=</HashCode>
+      <FileName>BLL\AuthorController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.AuthorRepository" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACBAACAAwgAAAAAEAAAAAgAABAAAAAAAAA=</HashCode>
+      <FileName>DAL\AuthorRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.BookAuthorRepository" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAgQQAAAAQAAAAACAAgAAAAAAgAAACAAAgA=</HashCode>
+      <FileName>DAL\BookAuthorRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.BookOrdersRepository" Collapsed="true">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBBIAQAAAAAAAAAAAAAQBAAgAAEAAAEAAAAAAAAAQE=</HashCode>
+      <FileName>DAL\BookOrdersRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.BookRepository" Collapsed="true">
+    <Position X="12" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BTAABESAAAAIAAAAACAAAEAABMAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>DAL\BookRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.CustomerDB" Collapsed="true">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\CustomerDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.CategoryRepository" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAAAAYAAAAAAAAAAAACAAAAAAAAAAAEAAAAAAg=</HashCode>
+      <FileName>DAL\CategoryRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.CustomerDS" Collapsed="true">
+    <Position X="9" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAiAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>DAL\CustomerDS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.EmployeeDB" Collapsed="true">
+    <Position X="11.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAIABAAAAAAAAAQAAAAAAEAAAAABAAAAAAgAAA=</HashCode>
+      <FileName>DAL\EmployeeDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.LogInDB" Collapsed="true">
+    <Position X="4.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\LogInDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.OrderRepository" Collapsed="true">
+    <Position X="7.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAgAAAAAAgIAAAAAAAAAAgAAgAAgEBEAAAgAAg=</HashCode>
+      <FileName>DAL\OrderRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.UserDB" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAIABAAACAAAAAAAAAAAAEAAAAAAAEAAAAgAAA=</HashCode>
+      <FileName>DAL\UserDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Library.DAL.PublisherRepository" Collapsed="true">
+    <Position X="9.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAgAAAAgAAAAAIAAAAAIAAAAAAAAAAABBAAA=</HashCode>
+      <FileName>DAL\PublisherRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTechLibrary.DAL.UtilityDB" Collapsed="true">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\UtilityDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="12.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
